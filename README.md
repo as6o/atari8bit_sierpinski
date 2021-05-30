@@ -8,6 +8,6 @@ The specific command I used when developing this was:
 `atari800 -xl -xlxe_rom ATARIXL.ROM -basic -H1 <path to this repo locally> -hreadwrite`
 
 Note that the atari800 website has information on where to get ROMs, etc.
-Once the emulator opens up and you are in the basic interpreter you can type 
+Once the emulator opens up and you are in the BASIC interpreter you can type 
 `ENTER "H6:SPRTRI.BAS"`(`H6` is the PC-newline version of `H1`) to load the program into memory.
 Then you can type `RUN` to run the program or `LIST` to list the program.
