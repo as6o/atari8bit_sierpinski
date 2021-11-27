@@ -2,7 +2,7 @@
 
 An Atari 8-bit emulator running Atari BASIC (or a clone) is needed for this to run.
 
-It was developed on the [atari800 emulator](https://atari800.github.io/) running as an 800 XL.
+It was developed on the [atari800 emulator](https://atari800.github.io/) running as an Atari 800 XL (the model I owned when I was young).
 The specific command I used when developing this was:
 
 `atari800 -xl -xlxe_rom ATARIXL.ROM -basic -H1 <path to this repo locally> -hreadwrite`
